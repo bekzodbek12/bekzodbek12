@@ -4,6 +4,10 @@
 
 ---
 
+<p align="start">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00E7FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;Vue+%7C+React+%7C+JavaScript+%7C+HTML+%7C+CSS;Always+learning+new+things!"/>
+</p>
+
 ## 🚀 About Me
 
 - 🌱 I’m currently learning React, Vue, and API integration  
