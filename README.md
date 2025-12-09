@@ -17,6 +17,7 @@
 - 📫 Telegram: [@mirzaolimov_2021](https://t.me/mirzaolimov_2021)  
 - ⚡ Fun fact: I don’t sleep until the code runs 😄 and  Fun fact: **What is sleep?**
 - - 😄 Nickname: **bekzodbek**
+  - [![Codewars Badge](https://www.codewars.com/users/bekzodbek12/badges/large)](https://www.codewars.com/users/bekzodbek12)
 
 ---
 
@@ -51,7 +52,6 @@
 </p>
 
 ---
-[![Codewars Badge](https://www.codewars.com/users/bekzodbek12/badges/large)](https://www.codewars.com/users/bekzodbek12)
 ## 📈 Profile Views
 
 <p align="center">
