@@ -25,8 +25,8 @@
 ## 📊 My GitHub Performance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bekzodbek&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bekzodbek&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bekzodbek12&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bekzodbek12&theme=dark" alt="GitHub Streak" />
 </p>
 
 ---
@@ -34,7 +34,7 @@
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bekzodbek&theme=darkhub&no-frame=true&no-bg=true" alt="Achievements" />
+  <img src="https://github-profile-trophy.vercel.app/?username=bekzodbek12&theme=darkhub&no-frame=true&no-bg=true" alt="Achievements" />
 </p>
 
 ---
