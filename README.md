@@ -1,20 +1,4 @@
-### Hi there 👋
-
-[![Codewars Badge](https://www.codewars.com/users/azamjonbro/badges/large)](https://www.codewars.com/users/azamjonbro)
-
-[![Monkeytype](https://img.shields.io/badge/Monkeytype-Profile-orange)](https://monkeytype.com/profile/azamjonbro)
-
----
-
-- 🔭 I’m currently working at **Algoritm**
-- 🌱 I’m currently learning **ElectronJS**, **React Native**
-- 💬 Ask me about **nothing :)**
-- 📫 How to reach me: [@mirzaolimov_o1](https://t.me/mirzaolimov_o1) on Telegram
-- 😄 Nickname: **bekzodbek**
-- ⚡ Fun fact: **What is sleep?**
-
-- 
-# 👋 Hi there, I'm Bekzodbek
+ # 👋 Hi there, I'm Bekzodbek
 
 > Frontend Developer from Uzbekistan 🇺🇿
 
@@ -31,7 +15,8 @@
 - 💬 Ask me about frontend development  
 - 🎯 Goal: Build fast, responsive, and modern web apps  
 - 📫 Telegram: [@mirzaolimov_2021](https://t.me/mirzaolimov_2021)  
-- ⚡ Fun fact: I don’t sleep until the code runs 😄  
+- ⚡ Fun fact: I don’t sleep until the code runs 😄 and  Fun fact: **What is sleep?**
+- - 😄 Nickname: **bekzodbek**
 
 ---
 
@@ -66,7 +51,7 @@
 </p>
 
 ---
-
+[![Codewars Badge](https://www.codewars.com/users/bekzodbek12/badges/large)](https://www.codewars.com/users/bekzodbek12)
 ## 📈 Profile Views
 
 <p align="center">
