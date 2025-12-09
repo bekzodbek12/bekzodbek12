@@ -1,3 +1,19 @@
+### Hi there 👋
+
+[![Codewars Badge](https://www.codewars.com/users/azamjonbro/badges/large)](https://www.codewars.com/users/azamjonbro)
+
+[![Monkeytype](https://img.shields.io/badge/Monkeytype-Profile-orange)](https://monkeytype.com/profile/azamjonbro)
+
+---
+
+- 🔭 I’m currently working at **Algoritm**
+- 🌱 I’m currently learning **ElectronJS**, **React Native**
+- 💬 Ask me about **nothing :)**
+- 📫 How to reach me: [@mirzaolimov_o1](https://t.me/mirzaolimov_o1) on Telegram
+- 😄 Nickname: **bekzodbek**
+- ⚡ Fun fact: **What is sleep?**
+
+- 
 # 👋 Hi there, I'm Bekzodbek
 
 > Frontend Developer from Uzbekistan 🇺🇿
