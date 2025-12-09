@@ -19,7 +19,7 @@
 - - 😄 Nickname: **bekzodbek**
 
 ---
-- [![Codewars Badge](https://www.codewars.com/users/bekzodbek12/badges/large)](https://www.codewars.com/users/bekzodbek12)
+[![Codewars Badge](https://www.codewars.com/users/bekzodbek12/badges/large)](https://www.codewars.com/users/bekzodbek12)
 
 ---
 ## 📊 My GitHub Performance
