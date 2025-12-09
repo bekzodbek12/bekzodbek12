@@ -15,7 +15,7 @@
 - 💬 Ask me about frontend development  
 - 🎯 Goal: Build fast, responsive, and modern web apps  
 - 📫 Telegram: [@mirzaolimov_2021](https://t.me/mirzaolimov_2021)  
-- ⚡ Fun fact: I don’t sleep until the code runs 😄 and  Fun fact: **What is sleep?**
+- ⚡ Fun fact: I don’t sleep until the code runs.😄
 - - 😄 Nickname: **bekzodbek**
 
 ---
@@ -34,7 +34,7 @@
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bekzodbek12&theme=darkhub&no-frame=true&no-bg=true" alt="Achievements" />
+  <!-- <img src="https://github-profile-trophy.vercel.app/?username=bekzodbek12&theme=darkhub&no-frame=true&no-bg=true" alt="Achievements" /> -->
 </p>
 
 ---
