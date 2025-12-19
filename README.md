@@ -28,7 +28,6 @@
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=bekzodbek12&show_icons=true&theme=dark" alt="GitHub Stats" /> -->
   <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=bekzodbek12&theme=dark" alt="GitHub Streak" /> -->
 </p>
----
 
 ## 🧠 Tech Stack
 
