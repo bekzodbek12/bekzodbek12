@@ -31,14 +31,6 @@
 
 ---
 
-## 🏆 Achievements
-
-<p align="center">
-  <!-- <img src="https://github-profile-trophy.vercel.app/?username=bekzodbek12&theme=darkhub&no-frame=true&no-bg=true" alt="Achievements" /> -->
-</p>
-
----
-
 ## 🧠 Tech Stack
 
 <p align="center">
