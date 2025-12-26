@@ -11,7 +11,7 @@
 ## 🚀 About Me
 
 - 🌱 I’m currently learning React, Vue, and API integration  
-- ⚙️ I use daily: `.html`, `.css`, `.js`, `.react`, `.vue`  
+- ⚙️ I use daily: `.html`, `.css`, `.js`, `.react`, `.vue`, 'node.js'.
 - 💬 Ask me about frontend development  
 - 🎯 Goal: Build fast, responsive, and modern web apps  
 - 📫 Telegram: [@mirzaolimov_2021](https://t.me/mirzaolimov_2021)  
