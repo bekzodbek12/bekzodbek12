@@ -57,5 +57,5 @@
 ---
 
 <p align="center">
-  ✨ <b>Code. Learn. Build. Repeat.</b> ✨
+  <!-- ✨ <b>Code. Learn. Build. Repeat.</b> ✨ -->
 </p>
