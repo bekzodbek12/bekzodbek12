@@ -51,7 +51,7 @@
 ## 📈 Profile Views
 
 <p align="center">
-  <!-- <img src="https://komarev.com/ghpvc/?username=bekzodbek&style=for-the-badge&color=00E7FF" alt="Profile Views" /> -->
+  <img src="https://komarev.com/ghpvc/?username=bekzodbek&style=for-the-badge&color=00E7FF" alt="Profile Views" />
 </p>
 
 ---
