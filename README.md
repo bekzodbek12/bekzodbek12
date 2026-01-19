@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning React, Vue, and API integration  
+- 🌱 I’m currently learning React, Vue, and API integration 
 - ⚙️ I use daily: `.html`, `.css`, `.js`, `.react`, `.vue`, 
 - 💬 Ask me about frontend development  
 - 🎯 Goal: Build fast, responsive, and modern web apps  
@@ -28,8 +28,8 @@
 ## 📊 My GitHub Performance
 
 <p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=bekzodbek12&show_icons=true&theme=dark" alt="GitHub Stats" /> -->
-  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=bekzodbek12&theme=dark" alt="GitHub Streak" /> -->
+  <img src="https://github-readme-stats.vercel.app/api?username=bekzodbek12&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bekzodbek12&theme=dark" alt="GitHub Streak" />
 </p>
 
 
