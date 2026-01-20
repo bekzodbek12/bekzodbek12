@@ -1,6 +1,5 @@
  # 👋 Hi there, I'm Bekzodbek
-
-> Frontend Developer from Uzbekistan 🇺🇿
+ > Frontend & Backend Developer from Uzbekistan 🇺🇿
 
 ---
 
