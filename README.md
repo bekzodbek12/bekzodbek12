@@ -58,4 +58,4 @@
 <p align="center">
   ✨ <b>Code. Learn. Build. Repeat.</b> ✨
 </p>
-shunga qo'shib to'liq yozib ber
+
