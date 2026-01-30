@@ -30,10 +30,11 @@
 <p align="center">
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
     <img 
-      src="https://github-readme-stats.vercel.app/api?username=bekzodbek12&show_icons=true&theme=dark" 
-      alt="GitHub Stats" 
-      style="width: 350px; height: 150px; object-fit: cover; border-radius: 8px;"
-    />
+  src="https://github-readme-stats.vercel.app/api?username=bekzodbek12&show_icons=true&theme=dark" 
+  alt="GitHub Stats" 
+  width="350" 
+/>
+
     <img 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=bekzodbek12&layout=compact&theme=dark" 
       alt="Top Languages" 
