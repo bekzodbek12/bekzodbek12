@@ -34,12 +34,6 @@
   alt="GitHub Stats" 
   width="350" 
 />
-
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=bekzodbek12&layout=compact&theme=dark" 
-      alt="Top Languages" 
-      style="width: 350px; height: 150px; object-fit: cover; border-radius: 8px;"
-    />
   </div>
 </p>
 
