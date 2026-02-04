@@ -17,7 +17,7 @@
 - ⚙️ I use daily: `.html`, `.css`, `.js`, `.react`, `.vue`, 
 - 💬 Ask me about frontend development  
 - 🎯 Goal: Build fast, responsive, and modern web apps  
-- 📫 Telegram: [@mirzaolimov_2021](https://t.me/mirzaolimov_2021)  
+- 📫 Telegram: [@mirzaolimov_2021](https://t.me/mirzaolimov_2021)
 - ⚡ Fun fact: I don’t sleep until the code runs.😄
 - 😄 Nickname: **bekzodbek**
 
@@ -28,7 +28,7 @@
 ## 📊 My GitHub Performance
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=bekzodbek12&show_icons=true&theme=dark" alt="GitHub Stats" style="width: 350px; height: 150px; object-fit: cover; border-radius: 8px;" />
+ <!-- <img src="https://github-readme-stats.vercel.app/api?username=bekzodbek12&show_icons=true&theme=dark" alt="GitHub Stats" style="width: 350px; height: 150px; object-fit: cover; border-radius: 8px;" /> -->
   </div>
 </p>
 
