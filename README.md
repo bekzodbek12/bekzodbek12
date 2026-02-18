@@ -28,7 +28,7 @@
 ## 📊 My GitHub Performance
 
 <p align="center">
- <!-- <img src="https://github-readme-stats.vercel.app/api?username=bekzodbek12&show_icons=true&theme=dark" alt="GitHub Stats" style="width: 350px; height: 150px; object-fit: cover; border-radius: 8px;" /> -->
+ <img src="https://github-readme-stats.vercel.app/api?username=bekzodbek12&show_icons=true&theme=dark" alt="GitHub Stats" style="width: 350px; height: 150px; object-fit: cover; border-radius: 8px;" />
   </div>
 </p>
 
